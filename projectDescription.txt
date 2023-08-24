@@ -1,0 +1,28 @@
+Name: Disney Pin collector
+
+Tech Stacks:
+MERN
+
+Features:
+Login and Registration form
+
+Navbar- on top of page with links to profile settings
+
+Dashboard- will have options as to display all pins or sort base on collection, by movie or by individual character
+
+CRUD functionality- be able to add delete and edit pin or entire collection
+be able to add own image of pins keep track of current collection.
+
+Add social aspect, such as likes and comments on individual pin/collection. Set up secure routes so only the user in session/owner of 
+pin post/comment/link can have access to CRUD functionality.
+
+Other possible Features:
+Outside API that have a current catalog on already existing collections so the user can keep track of 
+what pins are missing from his/her collection, perhaps add a functionality that will display a gray-out image of the pin
+that is missing in the collection.
+
+For styling, ill be using TailWind
+
+and to validate the data ill be using a jsonwebtoken or JWTs
+
+The repo link https://github.com/joshmartinez2311/DisneyPinCollector.git
